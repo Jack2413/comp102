@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ validateDateCore()
+comment0.text=\n\ Asks\ user\ for\ a\ date,\ then\ determines\ whether\ the\ date\n\ \ \ \ specified\ by\ the\ three\ integers\ is\ a\ valid\ date.\n\ For\ the\ Core,\ you\ may\ assume\ that\n\ -\ All\ months\ have\ 31\ days,\ numbered\ 1\ to\ 31\n\ -\ The\ months\ run\ from\ 1\ to\ 12\n\ -\ Years\ start\ from\ 1\ \n
+comment1.params=
+comment1.target=void\ validateDateCompletion()
+comment1.text=\n\ Asks\ user\ for\ a\ date,\ then\ determines\ whether\ the\ date\n\ \ \ \ specified\ by\ the\ three\ integers\ is\ a\ valid\ date.\n\ For\ the\ Completion,\ you\ should\ also\ check\ that\n\ -\ Months\ have\ the\ correct\ number\ of\ days\n\ -\ On\ leap\ years\ February\ should\ have\ 29\ days.\n\ \ \ \ A\ year\ is\ a\ leap\ year\ if\:\n\ \ \ \ \ \ \ -\ The\ year\ can\ be\ evenly\ divided\ by\ 4\ but\ not\ 100\n\ \ \ \ \ \ \ -\ The\ year\ can\ be\ evenly\ divided\ by\ 400\ \n
+comment2.params=
+comment2.target=void\ validateDateChallenge()
+comment2.text=\n\ For\ the\ challenge,\ your\ program\ should\ be\ extended\ to\ deal\ with\ the\ transition\ from\ the\ Julian\ to\ Gregorian\ calendar.\ \n\ The\ program\ should\ look\ at\ the\ date,\ determine\ whether\ this\ should\ be\ a\ Julian\ or\ Gregorian\ date,\ and\ test\ it\ appropriately.\ \n\ You\ will\ need\ to\ find\ the\ rules\ of\ the\ Julian\ calendar\ yourselves.\ \n\ before\ 1582.10.4\ are\ using\ Julian\ calendar.\n\ after\ 1582.10.15\ are\ using\ gregorian\ calendar.\n\ between\ 1582.10.4\ ~\ 1582.10.15\ are\ no\ date.\n
+comment3.params=
+comment3.target=DateValidator()
+comment3.text=Constructor\:\ set\ up\ user\ interface
+numComments=4

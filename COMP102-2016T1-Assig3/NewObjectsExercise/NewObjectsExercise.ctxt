@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ flowers()
+comment0.text=Creates\ two\ or\ three\ Flower\ objects\ and\ makes\ them\ grow\ and\ bloom
+comment1.params=
+comment1.target=void\ balloons()
+comment1.text=Creates\ two\ Balloon\ objects\ and\ makes\ them\ expand\ and\ pop
+comment2.params=
+comment2.target=void\ bankAccounts()
+comment2.text=\ Creates\ two\ BankAccount\ objects\ and\ deposits\ to,\ withdraws\ from,\ and\n\ prints\ statements\ of\ them\n
+comment3.params=
+comment3.target=void\ cars()
+comment3.text=\ \ Creates\ two\ Car\ objects\ and\ makes\ them\ \ \ \ \ \ \ \ \ drive\ towards\n\ \ each\ other\ then\ turn\ to\ the\ side\ and\ drive\ some\ more.\n
+comment4.params=
+comment4.target=void\ studentMarks()
+comment4.text=\ Creates\ two\ StudentMarkRecord\ objects\ and\ records\ several\ marks\n\ \ \ \ for\ each\ student\ and\ displays\ their\ current\ assignment\ status.\n
+comment5.params=
+comment5.target=NewObjectsExercise()
+comment5.text=Constructor\ to\ set\ up\ the\ user\ interface
+numComments=6

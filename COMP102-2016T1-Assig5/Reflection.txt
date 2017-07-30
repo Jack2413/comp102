@@ -1,0 +1,22 @@
+Questions for reflection.
+=========================
+
+
+1. Did you do any online practice questions this week? If yes, which topics did
+you look at and why?
+
+No,because i don’t have time to do it.But I spend my time to for doing the exercise.
+and I find out the exercise is quite helpful
+.
+2. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+
+the error bug i find out this time is the pixels(little dot i draw) are in the wrong position. that makes the image look strange, the dot are in the position that it should,t be. After i find out the mistakes are I put the rows and vertical wrong way round, I should put the column while loop inside the row while loop. I think the best way to making it easier to fix next time is to remember the mistakes this time, when drawing images use the rows while loop first.
+
+3. What is one thing that you did in this assignment that is similar to previous
+ones? Was it easier this time? How did you approach doing it?
+
+yes,in this time assignment I used a lot while loop method there are similar to assignment 4, and the imageRenderer is similar to the patterns drawer, and i did use the similar method to draw the images. I think the assignment is hard this time, but i used the same amount of time to finish it, so i think this time skilled than last time to doing the similar thing。
+
+4. If you have any other thoughts about the assignment please write them here.

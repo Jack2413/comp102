@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=void\ cartoonCrowd(java.lang.String)
+comment0.text=\n\ cartoonCrowd\:\n\ Parameter\ is\ the\ name\ of\ a\ file.\n\ \ \ \ Reads\ a\ file\ specifying\ a\ collection\ of\ cartoonFigures\ \n\ Each\ line\ contains\ a\ string\ and\ an\ x\ and\ y\ value.\n\ Should\ create\ an\ ArrayList\ of\ CartoonFigures\n\ Using\ a\ while\ loop\ to\ read\ through\ the\ file\n\ it\ should\ repeatedly\n\ \ \ \ \ \ read\ the\ three\ values\ on\ a\ line\n\ \ \ \ \ \ create\ a\ new\ CartoonFigure\ with\ those\ values\n\ \ \ \ \ \ store\ the\ CartoonFigure\ in\ the\ next\ place\ in\ the\ array\n\ It\ should\ then,\ in\ turn,\n\ \ \ make\ each\ cartoonFigure\ look\ left\ and\ frown,\ \n\ \ \ then\ make\ each\ cartoonFigure\ walk\ forward\ 40\ units\n
+comment1.params=
+comment1.target=void\ plotNumbers()
+comment1.text=\n\ Reads\ a\ sequence\ of\ numbers\ from\ the\ file\ "numbers.txt"\ into\ an\ ArrayList\n\ Finds\ the\ number\ half\ way\ through\ the\ sequence\ of\ numbers\n\ [if\ the\ size\ of\ the\ list\ is\ n,\ the\ middle\ number\ is\ at\ index\ (n-1)/2\ ]\n\ Then\ plots\ the\ numbers\ as\ a\ sequence\ of\ rectangles\ of\ width\ \=\ 5\ and\n\ height\ \=\ the\ number\ being\ plotted,\n\ The\ color\ is\n\ \ \ \ green\ if\ the\ number\ is\ less\ than\ the\ middle\ number,\n\ \ \ \ black\ if\ it\ is\ equal\ to\ the\ middle\ number,\ \n\ \ \ \ red\ otherwise.\n\ Note\:\ it\ has\ to\ read\ all\ the\ numbers\ before\ it\ can\ plot\ any\ of\ them.\n
+comment2.params=
+comment2.target=void\ readAndReverse()
+comment2.text=\ \n\ Asks\ the\ user\ for\ a\ file,\ and\ reads\ each\ token\ from\ the\ file,\ storing\n\ them\ in\ an\ ArrayList.\n\ \ \ \ \ It\ prints\ out\ the\ number\ of\ tokens\ it\ read\ and\ then\n\ prints\ the\ tokens\ in\ reverse\ order.\n
+comment3.params=
+comment3.target=void\ sieve()
+comment3.text=\n\ Creates\ a\ list\ of\ integers,\ and\ adds\ each\ number\ from\ 1\ to\ 100\ to\ the\ list.\n\ Prints\ them\ out.\n\ Then\ repeatedly\ asks\ the\ user\ for\ a\ number,\ and\ removes\ all\ multiples\ of\ that\n\ number\ (except\ for\ the\ number\ itself)\ from\ the\ list,\ and\ prints\ this\ list\ out\ again.\n\ For\ example,\ if\ the\ user\ selects\ 5,\ it\ will\ remove\ 10,\ 15,\ 20,\ 25,\ 30,\ etc\ from\ the\ list\n\ It\ should\ quit\ asking\ when\ the\ user\ selects\ 0.\n\ Hints\:\n\ \ \ \ you\ should\ work\ backwards\ down\ the\ list\ to\ remove\ multiples,\ not\ forwards.\n\ \ \ \ if\ m\ is\ a\ multiple\ of\ n,\ then\ m%n\ \=\=\ 0\ \ (the\ remainder)\ \n
+comment4.params=
+comment4.target=Exercise()
+comment4.text=\n\ Constructor\ to\ set\ up\ an\ interface\ with\ buttons\ to\ call\ all\ the\ methods\n
+comment5.params=
+comment5.target=void\ showFile()
+comment5.text=\n\ Utility\ method\ to\ list\ the\ contents\ of\ a\ file.\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

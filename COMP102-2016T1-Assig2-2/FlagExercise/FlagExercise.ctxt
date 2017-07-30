@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ japanFlag()
+comment0.text=\ The\ flag\ of\ Japan\ has\ a\ white\ background\ and\n\ \ a\ red\ circle\ in\ the\ middle.\n\ \ The\ flag\ is\ 2/3\ as\ high\ as\ it\ is\ wide\ (ratio\ 2\:3).\n
+comment1.params=
+comment1.target=void\ indonesiaFlag()
+comment1.text=\ The\ flag\ of\ Indonesia\ has\ two\ horizontal\ stripes;\n\ \ the\ top\ is\ red\ and\ the\ bottom\ is\ white.\n\ \ The\ flag\ is\ 2/3\ as\ high\ as\ it\ is\ wide\ (ratio\ 2\:3).\n
+comment2.params=
+comment2.target=void\ austriaFlag()
+comment2.text=\ The\ flag\ of\ Austria\ has\ three\ horizontal\ stripes;\n\ \ the\ top\ and\ bottom\ are\ red\ and\ the\ middle\ is\ white.\n\ \ The\ flag\ is\ 2/3\ as\ high\ as\ it\ is\ wide\ (ratio\ 2\:3).\n
+comment3.params=
+comment3.target=void\ bangladeshFlag()
+comment3.text=\ The\ flag\ of\ Bangladesh\ has\ a\ green\ background\ and\n\ \ \ a\ red\ circle\ in\ the\ middle\ (off-set\ to\ left).\n\ \ The\ flag\ is\ 3/5\ as\ high\ as\ it\ is\ wide\ (ratio\ 3\:5).\n
+comment4.params=
+comment4.target=void\ nigerFlag()
+comment4.text=\ The\ flag\ of\ Niger\ has\ three\ horizontal\ stripes,\n\ \ orange\ at\ the\ top,\ white\ in\ the\ middle,\ green\ at\ the\ bottom,\n\ \ and\ an\ orange\ circle\ in\ the\ middle\ of\ the\ middle\ stripe.\n\ \ The\ flag\ is\ 6/7\ as\ high\ as\ it\ is\ wide\ (ratio\ 6\:7).\n
+comment5.params=
+comment5.target=FlagExercise()
+comment5.text=Constructor\:\ set\ up\ the\ user\ interface\ and\ buttons
+numComments=6

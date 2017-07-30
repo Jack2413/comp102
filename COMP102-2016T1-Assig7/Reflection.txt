@@ -1,0 +1,19 @@
+Questions for reflection.
+=========================
+
+
+1. Did you do any online practice questions this week? If yes, which topics did
+you look at and why?
+No,because i don’t have time to do it.But I spend my time to for doing the exercise and to revision for my test, I find out the exercise is quite helpful for my assignment.
+
+2. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+The error bug, I find out this week is I always get my min and max wrong, because in jave when it draw on the graphic it always count from left top as x,y. So, after i just swap the value other away round that let me fix the problem.
+
+3. What is one thing that you did in this assignment that is similar to previous
+ones? Was it easier this time? How did you approach doing it?
+
+yes,in this time assignment I used a lot for loops method and scan method there are similar to assignment 4 and 5 , I think the assignment is hard this time, but i used the same amount of time to finish it, so i think this time skilled than last time to doing the similar things。
+
+4. If you have any other thoughts about the assignment please write them here.

@@ -1,0 +1,24 @@
+Questions for reflection.
+=========================
+
+
+1. Did you do any online practice questions this week? If yes, which topics did
+you look at and why?
+
+No, but i did finish the exercise as usual， and I find out the exercise is quite helpful
+for my assignments.
+
+2. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+
+lots of error, bugs i find out this week. for example in mini paint the pen tools when I drew the line it always start at the top left conner because i didn’t set a variable that link to dragx dragy， so each time i drew it，it always start on 0，0.After I fixed by set pressx = dragx， pressy =dragy before it get in to pen loops, and it works。
+
+3. What is one thing that you did in this assignment that is similar to previous
+ones? Was it easier this time? How did you approach doing it?
+
+the drawing shapes, use loops, calling methods，and return methods.basically every thing is similar, the only difference is the  new stuff we learn add to this assignment. I finish later this time,I think because the work is lot more then last time.
+
+4. If you have any other thoughts about the assignment please write them here.
+
+I very enjoy the assignment this time,  i think because this is a game assignment (making games), I hope i can have more the smilier assignment like this, it is pain and fun : ).

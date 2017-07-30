@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CirclesExercise()
+comment0.text=\ Construct\ a\ new\ CirclesExercise\ object\ \ and\ set\ up\ the\ GUI\:\n\ \ -\ set\ the\ mouse\ listener\n\ \ -\ add\ three\ buttons\n
+comment1.params=
+comment1.target=void\ Large()
+comment2.params=
+comment2.target=void\ small()
+comment3.params=action\ x\ y
+comment3.target=void\ doMouse(java.lang.String,\ double,\ double)
+comment3.text=\ Respond\ to\ mouse\ events.\n\ This\ program\ only\ does\ something\ on\ a\ released\ event\ -\ it\ draws\ a\n\ circle\ of\ the\ current\ size\ centered\ at\ the\ position\ the\ mouse\ was\ released\n
+comment4.params=arguments
+comment4.target=void\ main(java.lang.String[])
+numComments=5

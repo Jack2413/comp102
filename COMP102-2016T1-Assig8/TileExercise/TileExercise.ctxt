@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ doReset()
+comment0.text=\n\ Fill\ the\ array\ in\ the\ tiles\ field\ with\ new\ Tiles\n\ \ Note\:\ the\ Tile\ constructor\ needs\ no\ arguments,\ and\ creates\ a\n\ \ \ \ \ \ \ \ random\ tile.\n\ Redraw\ the\ tiles.\n
+comment1.params=
+comment1.target=void\ doLeft()
+comment1.text=\n\ Move\ the\ selected\ tile\ to\ the\ left\ \n\ Redraw\ the\ tiles.\n
+comment2.params=
+comment2.target=void\ doRight()
+comment2.text=\n\ Move\ the\ selected\ tile\ to\ the\ right\ \n\ Redraw\ the\ tiles.\n
+comment3.params=
+comment3.target=void\ doRemove()
+comment3.text=\n\ Remove\ the\ currently\ selected\ tile,\ leaving\ a\ null\ in\ its\ place\n\ Redraw\ the\ tiles.\n
+comment4.params=
+comment4.target=TileExercise()
+comment4.text=----------\ The\ code\ below\ is\ already\ written\ for\ you\ ----------\ *
+comment5.params=action\ x\ y
+comment5.target=void\ doMouse(java.lang.String,\ double,\ double)
+comment5.text=\n\ If\ mouse\ is\ clicked\ on\ the\ rack,\ works\ out\ which\ tile\n\ and\ stores\ the\ index\ of\ the\ selected\ tile\n
+comment6.params=
+comment6.target=void\ redraw()
+comment6.text=\n\ Draws\ all\ the\ tiles,\ in\ a\ rack.\n\ highlights\ the\ currently\ selected\ tile.\n
+comment7.params=arguments
+comment7.target=void\ main(java.lang.String[])
+numComments=8

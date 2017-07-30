@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Balloon(double,\ double)
+comment0.text=\ Construct\ a\ new\ Balloon\ object;\ parameters\ specify\ the\ center\ of\ the\ balloon\n\ \ \ \ \ \ \ \ Draws\ the\ balloon\ on\ the\ screen,\ and\ pauses\ briefly.\n
+comment1.params=
+comment1.target=void\ expand()
+comment1.text=\ Make\ the\ balloon\ larger\ by\ a\ random\ amount\ between\ 10\ and\ 20\ units\n\ \ \ \ \ \ \ \ It\ pauses\ for\ a\ short\ time\ after\ expanding\ it.\n
+comment2.params=
+comment2.target=void\ pop()
+comment2.text=\ Pops\ the\ balloon\:\ draws\ it\ in\ gray,\ pauses,\ then\ makes\ it\ disappear.\n\ \ The\ balloon\ cannot\ be\ expanded\ or\ re-popped\ after\ the\ first\ time\ it\ has\ popped.\n
+comment3.params=
+comment3.target=void\ draw()
+comment3.text=draw\ the\ balloon\ on\ the\ screen\ and\ pause\ briefly.
+comment4.params=
+comment4.target=java.awt.Color\ randomBrightColor()
+comment4.text=\ Construct\ a\ bright\ colour\:\n\ \ \ \ \ \ \ \ one\ colour\ component\ is\ 255,\ another\ at\ 0,\ and\ the\ third\n\ \ \ \ \ \ \ \ colour\ component\ should\ be\ anwhere\ between\ 0\ and\ 255.\n\ \ \ \ \ \ \ \ Method\ assigns\ 255,\ a\ random\ value,\ and\ 0\ to\ red,\ green,\ blue,\n\ \ \ \ \ \ \ \ then\ randomly\ switches\ them\ around.\n
+numComments=5

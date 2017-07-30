@@ -1,0 +1,23 @@
+Questions for reflection.
+=========================
+
+
+1. Did you do any online practice questions this week? If yes, which topics did
+you look at and why?
+
+No, but i did finish the exercise as usual， and I find out the exercise is quite helpful.
+
+2. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+
+when add the shape to the front of the arraylist it is not working.and some shape will disappear.the problem is when i using shapes.add(0, shapes.get(i)) then shapes.remove(i); i did remove the shape that in-front of the expected shape. I did fixed the problem by add 1 shapes.remove(i+1).to fix next time need to remember to add one. 
+
+3. What is one thing that you did in this assignment that is similar to previous
+ones? Was it easier this time? How did you approach doing it?
+
+ehhh,i think this assignment is include all the previous assignment,lots of methods i did reused in the assignment. and yes, i did easier this time ,because i did it a lot and get skilled. i think i get improved by doing those assignments
+
+4. If you have any other thoughts about the assignment please write them here.
+
+NO,more assignment any more :) (:

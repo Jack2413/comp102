@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ franceFlag()
+comment0.text=\ The\ flag\ of\ France\ has\ three\ vertical\ stripes;\n\ \ The\ left\ is\ blue,\ the\ right\ is\ red\ and\ the\ middle\ is\ white.\n\ \ The\ flag\ is\ 2/3\ as\ high\ as\ it\ is\ wide\ (ratio\ 2\:3).\n\ \ CORE\n
+comment1.params=
+comment1.target=void\ hospitalSign()
+comment1.text=\ The\ hospital\ sign\ consists\ of\ a\ blue\ square\ with\ a\ big\ white\ centred\ H\n\ \ The\ H\ consists\ of\ 3\ rectangles\ (width\ is\ the\ size\ divided\ by\ 7.5\n\ \ A\ square\ means\ that\ the\ hight\ and\ the\ width\ are\ of\ equal\ size\n\ \ CORE\n
+comment2.params=
+comment2.target=void\ laosFlag()
+comment2.text=\n\ \ The\ flag\ of\ Laos\ has\ three\ horizontal\ stripes\ with\ a\ white\ circle\ in\ the\ centre;\n\ \ The\ flag\ is\ 2/3\ as\ high\ as\ it\ is\ wide\ (ratio\ 2\:3).\n\ \ The\ top\ and\ bottom\ stripes\ are\ red,\ and\ they\ are\ each\ 1/4\ of\ the\ height\ of\ the\ flag.\n\ \ The\ middle\ stripe\ is\ blue\ and\ it\ is\ 1/2\ of\ the\ height\ of\ the\ flag.\n\ \ The\ diameter\ of\ white\ circle\ is\ 4/5\ the\ height\ of\ blue\ strip,\ \n\ \ \ \ \ \ \ eg\ 2/5\ of\ the\ total\ height.\n\ \ CORE\n
+comment3.params=
+comment3.target=void\ uaeFlag()
+comment3.text=\n\ \ The\ flag\ of\ the\ United\ Arab\ Emirates\ is\ divided\ into\ four\ rectangular\ parts.\n\ \ The\ first\ red\ rectangle\ is\ the\ vertical\ band\ nearest\ to\ the\ mast,\ its\ length\ being\n\ \ equivalent\ to\ the\ height\ of\ the\ flag,\ while\ its\ width\ is\ one\ quarter\ of\ the\ length\ of\n\ \ the\ entire\ flag.\n\ \ The\ other\ three\ parts\ are\ three\ horizontal\ stripes\ of\ equal\ size.\n\ \ The\ top\ most\ is\ green,\ the\ middle\ is\ white\ and\ the\ lower\ is\ black.\n\ \ The\ flag\ is\ 1/2\ as\ high\ as\ it\ is\ wide\ (ratio\ 1\:2).\n\ \ COMPLETION\n
+comment4.params=
+comment4.target=void\ greenlandFlag()
+comment4.text=\ The\ flag\ of\ Greenland\ is\ a\ rectangle\ whose\ top\ half\ is\ white\n\ \ and\ bottom\ half\ is\ red.\ There\ is\ a\ circle\ in\ the\ middle\ (off-set\ to\ left)\ \n\ \ which\ is\ also\ half\ white/red\ but\ on\ the\ opposite\ sides.\n\ \ The\ flag\ is\ 2/3\ as\ high\ as\ it\ is\ wide\ (ratio\ 2\:3).\n\ \ COMPLETION\n
+comment5.params=
+comment5.target=void\ mitsubishiLogo()
+comment5.text=\ Mitsubishi\n\ \n\ \ CHALLENGE\n
+comment6.params=
+comment6.target=void\ koruFlag()
+comment6.text=\ The\ Koru\ flag\ belongs\ to\ the\ long\ list\ of\ new\ flags\ designs\n\ \ It\ has\ been\ designed\ by\ Sven\ Baker\ from\ Wellington\n\ \ The\ flag\ is\ 1/2\ as\ high\ as\ it\ is\ wide\ (ratio\ 1\:2).\n\ \ CHALLENGE\n
+comment7.params=
+comment7.target=SymbolDrawer()
+comment7.text=Constructor,\ sets\ up\ the\ user\ interface
+numComments=8

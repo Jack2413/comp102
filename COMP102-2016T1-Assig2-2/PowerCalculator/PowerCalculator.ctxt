@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ calculateCostSaverCore()
+comment0.text=\ Calculates\ and\ prints\ how\ long\ it\ would\ take\ you\ to\ amortise\ your\ cost\ of\ switching\n\ \ to\ energy\ saving\ bulbs\n
+comment1.params=
+comment1.target=void\ calculateCostSaverCompletion()
+comment1.text=\ Calculates\ and\ prints\ how\ long\ it\ would\ take\ you\ to\ amortise\ your\ cost\ of\ switching\n\ \ to\ energy\ saving\ bulbs\n\ \ For\ the\ Completion\ part\ consider\ the\ life\ span\ of\ each\ type\ of\ bulbs\ and\ prints\n\ \ how\ much\ saving\ will\ be\ done\ after\ numYears\ years\n\ \ \n
+comment2.params=
+comment2.target=PowerCalculator()
+comment2.text=Constructor,\ sets\ up\ the\ user\ interface
+numComments=3

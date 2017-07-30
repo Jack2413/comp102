@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x\ y\ col
+comment0.target=Polygon(double,\ double,\ java.awt.Color)
+comment1.params=x\ y
+comment1.target=void\ addxy(double,\ double)
+comment2.params=
+comment2.target=void\ redraw()
+comment3.params=changeX\ changeY
+comment3.target=void\ moveBy(double,\ double)
+numComments=4

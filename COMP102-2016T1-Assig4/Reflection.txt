@@ -1,0 +1,30 @@
+Questions for reflection.
+=========================
+
+
+1. Did you do any online practice questions this week? If yes, which topics did
+you look at and why?
+
+No,because i don’t have time to do it. I spend my time to for doing the exercise.
+and the exercise is quite helpful.
+
+2. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+
+The error,bug I find out this week is: when I use the while loop1 inside the while loop2,
+the things i did change inside the while loop1 (double,Int) will reflect while loop2. So，when I want to while while loop 1, i should restore the variables，and add ++；to the double of the loop. I think the easier way to fix next time is to remember this times error, avoid mistakes and label each doubles before get in to loops.
+ 
+3. What is one thing that you did in this assignment that is similar to previous
+ones? Was it easier this time? How did you approach doing it?
+
+The tricolour Flag drawer is similar to previous one, it is easier this time because I used while loop to draw, rather then use a lot of similar codes.
+
+4. If you have any other thoughts about the assignment please write them here.
+
+For use drawOvel method I have better understanding，before I was confuse about the starting position（left，top）. It lead to i drew some strange image. Unit I drew
+the ConcentricBoard, I understand the (left,top,size,size) ,what those variable for, and
+how does the dwarves method works.
+
+
+

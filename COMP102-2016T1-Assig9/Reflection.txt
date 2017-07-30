@@ -1,0 +1,24 @@
+Questions for reflection.
+=========================
+
+
+1. Did you do any online practice questions this week? If yes, which topics did
+you look at and why?
+
+No, but i did finish the exercise as usual， and I find out the exercise is quite helpful
+for my assignments.
+
+2. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+
+ArrayIndex Out of bounds exception, the values is out of range, by fixed the problem is make sure that the values are inside the range.to fixing the bug I use -1 in the for loops. And I think the easier way to fix next time is Calculate the values first or draw a 
+2d array on paper to see what happen, then write the for loops.
+
+3. What is one thing that you did in this assignment that is similar to previous
+ones? Was it easier this time? How did you approach doing it?
+
+Use for loops and array list, is similar to last 2 assignments, it was easier this time because i got a good understand how does the army list work.
+
+4. If you have any other thoughts about the assignment please write them here.
+I thing this time the challenge question is quite hard，when i store the changed image in my temp how do i know which pixel is my starting point. and how do i fill the pixels between the original pixel and the extended pixel. This troubled me for few days, but after i did it, is not that hard as what I thought.

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=x\ y\ col
+comment0.target=Car(double,\ double,\ java.awt.Color)
+comment0.text=\ Construct\ a\ new\ Car\ object;\ parameters\ are\ the\ position\ and\ colour\ of\ the\ car.\n
+comment1.params=dist
+comment1.target=void\ drive(double)
+comment1.text=Make\ the\ car\ move\ a\ distance\ in\ its\ current\ direction
+comment2.params=
+comment2.target=void\ left()
+comment2.text=turn\ the\ car\ 90\ degrees\ to\ the\ left
+comment3.params=
+comment3.target=void\ right()
+comment3.text=turn\ the\ car\ 90\ degrees\ to\ the\ right
+comment4.params=
+comment4.target=void\ draw()
+comment4.text=\ draw\ the\ car\:\ a\ rectangle\ with\ a\ darker\ rectangle\ for\ the\ roof,\ slightly\ offset\ntowards\ the\ back\ of\ the\ car
+comment5.params=
+comment5.target=void\ erase()
+comment5.text=erase\ the\ car
+numComments=6

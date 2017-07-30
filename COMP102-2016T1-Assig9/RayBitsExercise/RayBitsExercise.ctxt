@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ drawPuzzle()
+comment0.text=Draws\ the\ puzzle
+comment1.params=
+comment1.target=void\ shiftLeft()
+comment1.text=\ Shifts\ every\ value\ one\ step\ to\ the\ left,\ except\ for\ cells\ in\ the\n\ \ leftmost\ column,\ which\ are\ moved\ to\ the\ right\ most\ column\ \n
+comment2.params=col
+comment2.target=boolean\ checkCol(int)
+comment2.text=\ Checks\ whether\ all\ the\ colours\ in\ the\ specified\ column\ are\ the\ same\n\ \ Returns\ true\ if\ they\ are,\ and\ false\ otherwise.\ \n
+comment3.params=
+comment3.target=RayBitsExercise()
+comment3.text=creates\ a\ cross-word\ of\ x\ columns\ and\ y\ rows
+comment4.params=
+comment4.target=void\ newPuzzle()
+comment4.text=Makes\ a\ new\ puzzle\ with\ random\ colours\ selected\ from\ red,\ green,\ and\ blue
+comment5.params=
+comment5.target=void\ reportCols()
+comment5.text=Calls\ the\ checkCol\ method\ on\ each\ column
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

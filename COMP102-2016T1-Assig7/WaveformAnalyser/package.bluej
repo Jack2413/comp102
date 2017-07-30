@@ -1,0 +1,25 @@
+#BlueJ package file
+objectbench.height=76
+objectbench.width=686
+package.editor.height=407
+package.editor.width=578
+package.editor.x=127
+package.editor.y=115
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+project.charset=UTF-8
+target1.editor.height=695
+target1.editor.width=1143
+target1.editor.x=297
+target1.editor.y=86
+target1.height=50
+target1.name=WaveformAnalyser
+target1.naviview.expanded=true
+target1.showInterface=false
+target1.type=ClassTarget
+target1.typeParameters=
+target1.width=160
+target1.x=90
+target1.y=10

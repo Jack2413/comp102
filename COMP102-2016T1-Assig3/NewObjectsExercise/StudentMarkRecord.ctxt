@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=StudentMarkRecord(java.lang.String)
+comment0.text=\ Construct\ a\ new\ StudentMarkRecord\ object;\ parameter\ is\ the\ name\ of\ the\ student.\n
+comment1.params=mark
+comment1.target=void\ recordMark(double)
+comment1.text=record\ a\ mark\ for\ a\ new\ assignment
+comment2.params=
+comment2.target=void\ display()
+comment2.text=print\ out\ the\ student's\ mark\ record
+numComments=3

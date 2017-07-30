@@ -1,0 +1,20 @@
+Questions for reflection.
+=========================
+
+
+1. Did you do any online practice questions this week? If yes, which topics did
+you look at and why?
+yes,the Calculator Exercise and Flag Exercise.
+
+2. What is one error, bug, or exception that you encountered this week? How did
+you go about fixing it? Can you think of a way of making it easier to fix next
+time?
+like UI.setColour(Colour.red.darkner());I forget put the bracket after darker and the
+capital letter for Colour. to making it easier to fix, to make sure that not made the same
+type of error again.
+
+3. What is one thing that you did in this assignment that is similar to previous
+ones? Was it easier this time? How did you approach doing it?
+No,haven’t done the similar one before.
+
+4. If you have any other thoughts about the assignment please write them here.

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ animate()
+comment0.text=\ animate\ creates\ two\ cartoon\ figures\ on\ the\ window.\n\ \ Then\ animates\ them\ according\ to\ a\ fixed\ script\ by\ calling\ a\ series\n\ \ of\ methods\ on\ the\ figures.\n
+comment1.params=
+comment1.target=void\ animateCompletion()
+comment1.text=\ For\ the\ completion,\ the\ story\ must\ be\ a\ gamebook\ story\n\ \ \ \ \ \ where\ the\ user\ is\ asked\ to\ make\ decisions\ about\ what\ the\ characters\ will\ do.\n\ \ \ At\ the\ end\ it\ must\ print\ out\ the\ users\ power\ bill\ for\ the\ story\ that\ they\ chose.\n
+comment2.params=
+comment2.target=void\ animateChallenge()
+comment3.params=
+comment3.target=CartoonStrip()
+comment3.text=Constructor\:\ set\ up\ user\ interface
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=BankAccount(java.lang.String)
+comment0.text=\ Construct\ a\ new\ BankAccount\ object.\ Parameter\ is\ the\ name\ of\ the\ account\ holder\n
+comment1.params=amount
+comment1.target=void\ deposit(double)
+comment1.text=Make\ a\ deposit\ to\ the\ account.
+comment2.params=amount
+comment2.target=void\ withdraw(double)
+comment2.text=Make\ a\ withdrawal\ from\ the\ account.
+comment3.params=
+comment3.target=void\ statement()
+comment3.text=Print\ a\ statement\ of\ the\ current\ balance\ of\ the\ account
+numComments=4

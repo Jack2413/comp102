@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StarExercise()
+comment0.text=\ Set\ up\ the\ user\ interface\:\ set\ mouse\ listener\ and\ buttons.\n\ \ "Set\ Color"\ and\ "Clear"\ cause\ an\ immediate\ action\ (changing\ the\ color\ of\ the\ UI\ or\n\ \ clearing\ the\ pane).\n\ \ "Set\ Center"\ and\ "Set\ Tips"\ do\ not\ draw\ anything.\ They\ only\ record\ what\ state\n\ \ the\ user\ is\ now\ in\ -\ choosing\ a\ center\ point\ or\ not.\n
+comment1.params=action\ x\ y
+comment1.target=void\ doMouse(java.lang.String,\ double,\ double)
+comment1.text=\ Respond\ to\ mouse\ released\ events.\n\ \ \ \ If\ currently\ choosing\ a\ center,\ then\ remember\ the\ position\ and\ draw\ a\ small\n\ \ \ \ circle\ at\ the\ point.\n\ \ \ \ Othewise,\ draw\ a\ line\ from\ the\ current\ center\ to\ this\ point\n
+comment2.params=
+comment2.target=void\ Setcenter()
+comment3.params=
+comment3.target=void\ Settips()
+comment4.params=
+comment4.target=void\ doChooseColour()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
